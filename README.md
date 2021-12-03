@@ -1,4 +1,4 @@
-# This is the readme for my Horiseon homework. My changes made can be located in the html but I changed the search engine optimization from div class to div id, and I gave "search engine optimization" a class to get the search engine optimization link working.
+# This is the readme for my Horiseon homework. My changes made can be located in the html but I changed the search engine optimization from div class to div id, and I gave "search engine optimization" a class to get the search engine optimization link working. I also added a title to the people sitting at the table so screen readers should be able to announce that as well.
 
 ## This is the link to the deployed application: https://darnedoes.github.io/Homework01/
 
